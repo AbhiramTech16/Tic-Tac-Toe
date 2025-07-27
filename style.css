@@ -5,6 +5,7 @@
 h1 {
   font-size: 70px;
   font-family: serif;
+  margin-top: 20px;
 }
 
 body {
@@ -49,6 +50,7 @@ button:hover {
   font-size: 25px;
   border-radius: 15px;
   border-width: 6px;
+  margin-bottom: 20px;
 }
 
 #msg {
