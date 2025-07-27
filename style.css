@@ -37,6 +37,8 @@ body {
   border-width: 5px;
   font-size: 200px;
   color: #2d1304;
+  text-align: center;
+  transition: background-color 0.3s ease;
 }
 button:hover {
   background-color: rgb(235, 220, 135);
