@@ -35,7 +35,7 @@ body {
   border: 2px solid black;
   border-radius: 5px;
   border-width: 5px;
-  font-size: 200px;
+  font-size: 100px;
   color: #2d1304;
   text-align: center;
   transition: background-color 0.3s ease;
