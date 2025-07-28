@@ -4,7 +4,7 @@ let newgamebtn = document.querySelector("#btn");
 let msgcontainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
-let turnO = false; // X starts
+let turnO = true; // O starts
 
 const winchances = [
   [0, 1, 2],
