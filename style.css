@@ -3,14 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-footer {
+/* footer {
   color: #aaaaaa;
   font-size: 37px;
   text-align: center;
   margin-top: 40px;
   padding: 10px 0;
   border-top: 1px solid #070707;
-}
+} */
 body {
   background-color: #121212;
   color: #ffffff;
