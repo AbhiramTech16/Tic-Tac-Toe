@@ -73,10 +73,6 @@ h1 {
 .hide {
   display: none;
 }
-footer {
-  font-size: 35px;
-  color: white;
-}
 
 /* Responsive Design */
 @media (max-width: 600px) {
@@ -99,4 +95,8 @@ footer {
   #msg {
     font-size: 6vmin;
   }
+}
+footer {
+  color: white;
+  font-size: 36px;
 }
