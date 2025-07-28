@@ -3,7 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+footer {
+  color: #aaaaaa;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 40px;
+  padding: 10px 0;
+  border-top: 1px solid #070707;
+}
 body {
   background-color: #121212;
   color: #ffffff;
@@ -95,8 +102,4 @@ h1 {
   #msg {
     font-size: 6vmin;
   }
-}
-footer {
-  color: white;
-  font-size: 36px;
 }
